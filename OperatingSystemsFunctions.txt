@@ -2,3 +2,9 @@ An operating system is a mega-manager.
 It coordinates access to memory, files, processes, and devices. 
 The OS is the most crucial software required to run a computer. 
 Three main functions include: 1. providing a user interface (UI), 2. managing programs, and 3. monitoring performance.
+
+The UI is how a user engages with an OS.
+When you enter data or receive information, the UI controls those actions.
+There are two kinds of UI: graphical user interface (GUI) and command-line interface (CLI).
+GUI allows a user to touch, point, tap, and click menus and icons.
+CLI allows a user to type a line of keywords or key combinations.
