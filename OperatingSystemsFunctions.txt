@@ -13,3 +13,9 @@ The OS manages programs in use as well as processes that support those programs.
 Single tasking OS systems can only run one application at a time.
 Multitasking systems allow many programs to reside in memory simultaneously.
 When multiple programs are running, the active program is in the foreground and the programs not immediately in use retreat to the background.
+
+The performance monitor program that's included in the OS is a helpful tool.
+You can use it to look up information about your CPU, memory, energy, and network.
+Graphs, charts, and numeric lists track the computer's hardware, software, and application performance.
+The reports listed there allow you to detect and trouble-shoot a number of problems.
+
