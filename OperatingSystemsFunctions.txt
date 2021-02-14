@@ -8,3 +8,8 @@ When you enter data or receive information, the UI controls those actions.
 There are two kinds of UI: graphical user interface (GUI) and command-line interface (CLI).
 GUI allows a user to touch, point, tap, and click menus and icons.
 CLI allows a user to type a line of keywords or key combinations.
+
+The OS manages programs in use as well as processes that support those programs.
+Single tasking OS systems can only run one application at a time.
+Multitasking systems allow many programs to reside in memory simultaneously.
+When multiple programs are running, the active program is in the foreground and the programs not immediately in use retreat to the background.
