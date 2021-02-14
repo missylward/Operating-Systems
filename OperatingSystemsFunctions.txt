@@ -1,0 +1,4 @@
+An operating system is a mega-manager. 
+It coordinates access to memory, files, processes, and devices. 
+The OS is the most crucial software required to run a computer. 
+Three main functions include: 1. providing a user interface (UI), 2. managing programs, and 3. monitoring performance.
